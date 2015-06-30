@@ -16,3 +16,8 @@ Checkpoints:
     Being able to search the nameContent Tree:
     Being able to search the wordName Tree:
     Being able to use 2 words to make search the wordName Tree:
+    
+  
+The Word.h and Index.h are copies from victorfeijo. They are not final, I'm just using them as examples for some stuff I am going to do.
+
+The AvlTree and the DoublyLinkedList are from ranisalt. They are not final, I'm just using them as examples for some stuff I am going to do.
