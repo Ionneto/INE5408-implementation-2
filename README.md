@@ -3,6 +3,8 @@
 How it's going to work:
 
 We first run trough every single man page and create two trees:
+
+
     The first tree is of nameContent structs, those are structs made of a name and a content, we can search those
     by name later and print the contents.
 
